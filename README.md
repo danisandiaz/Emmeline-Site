@@ -1,2 +1,2 @@
 # Emmeline-Site
-Workshop
+A simple workshop
